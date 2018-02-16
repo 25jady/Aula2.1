@@ -1,4 +1,5 @@
 # Aula2.1
 Jennifer Aniston
-Meryl Streep
+Isis Valverde
 Will Smith
+Juliana Paes
